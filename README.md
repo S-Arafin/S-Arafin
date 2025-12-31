@@ -1,12 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=250&section=header&text=SULTANUL%20ARAFIN&fontSize=70&fontColor=7aa2f7&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%7C%20MERN%20STACK%20SPECIALIST&descAlignY=60&descAlign=50&descSize=20&descColor=bb9af7" width="100%" />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7DCFFF&center=true&vCenter=true&width=700&lines=%5B+%24+Initializing+MERN+Stack+Environment...%5D;%5B+%24+Stack%3A+MongoDB%2C+Express%2C+React%2C+Node.js+%5D;%5B+%24+Security%3A+Firebase+Auth+%2B+JWT+Implementation+%5D;%5B+%24+Mindset%3A+Discipline+Over+Motivation+%5D" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=150&section=header&text=Sultanul%20Arafin&fontSize=75&fontColor=7aa2f7&animation=fadeIn&fontAlignY=50" width="100%" />
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer-%7C%20MERN%20Stack%20Specialist-bb9af7?style=for-the-badge&labelColor=1a1b26&logo=mongodb&logoColor=47A248" />
+</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DCFFF&center=true&vCenter=true&width=800&lines=%5B+%24+System+Status%3A+Disciplined+Execution+Active+%5D;%5B+%24+Core+Architecture%3A+React+%2B+Node+%2B+MongoDB+%5D;%5B+%24+Security+Protocol%3A+Firebase+%2B+JWT+Implemented+%5D" alt="Typing SVG" />
+
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATION-7aa2f7?style=for-the-badge&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/LOCATION-DHAKA%2C%20BD-bb9af7?style=for-the-badge&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATION-7aa2f7?style=flat-square&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/LOCATION-DHAKA%2C%20BD-bb9af7?style=flat-square&labelColor=1a1b26" />
 </p>
 
 ---
