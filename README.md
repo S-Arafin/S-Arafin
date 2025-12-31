@@ -1,18 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=150&section=header&text=Sultanul%20Arafin&fontSize=75&fontColor=7aa2f7&animation=fadeIn&fontAlignY=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b26&height=220&section=header&text=SULTANUL%20ARAFIN&fontSize=85&fontColor=7aa2f7&animation=fadeIn&fontAlignY=45" width="100%" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-%7C%20MERN%20Stack%20Specialist-bb9af7?style=for-the-badge&labelColor=1a1b26&logo=mongodb&logoColor=47A248" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=bb9af7&center=true&vCenter=true&width=800&lines=%E2%9C%A6+Software+Engineer;%E2%9C%A6+MERN+Stack+Specialist;%E2%9C%A6+Disciplined+Problem+Solver" alt="Role" />
 </p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=7DCFFF&center=true&vCenter=true&width=800&lines=%5B+%24+System+Status%3A+Disciplined+Execution+Active+%5D;%5B+%24+Core+Architecture%3A+React+%2B+Node+%2B+MongoDB+%5D;%5B+%24+Security+Protocol%3A+Firebase+%2B+JWT+Implemented+%5D" alt="Typing SVG" />
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=7dcfff&center=true&vCenter=true&width=600&lines=%3E+root%40arafin%3A~%24+exec+mern-stack-deployment;%3E+Status%3A+Building+Secure+Systems;%3E+Mindset%3A+Discipline+%3E+Motivation" alt="System Terminal" />
+</p>
 
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATION-7aa2f7?style=flat-square&labelColor=1a1b26" />
-  <img src="https://img.shields.io/badge/LOCATION-DHAKA%2C%20BD-bb9af7?style=flat-square&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/%E2%97%8F-AVAILABLE%20FOR%20PROJECTS-7aa2f7?style=flat-square&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/%E2%97%8F-DHAKA%2C%20BD-bb9af7?style=flat-square&labelColor=1a1b26" />
 </p>
 
 ---
