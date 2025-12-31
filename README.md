@@ -34,21 +34,19 @@ I am a dedicated **MERN Stack Developer** focused on building secure, scalable, 
 * **Key Architecture:**
     * **Role-Based Access Control (RBAC):** Three distinct dashboards (Admin, Staff, Citizen) secured via custom JWT verification middleware.
     * **Priority Engine:** Integrated **Stripe Payment Gateway** for users to "Boost" issue priority or subscribe to premium plans.
-    * **Data Visualization:** Admin and Staff dashboards utilizing **Recharts** for real-time analytics on revenue and resolution rates.
-    * **Audit Log:** Interactive timeline tracking the lifecycle of infrastructure issues from "Pending" to "Closed."
+    * **Data Visualization:** Admin and Staff dashboards utilizing **Recharts** for real-time analytics.
 
 ### 2. CleanConnect - Community Issue Tracker
 *A community-driven platform for environmental reporting and crowdfunding.*
 * **Live Link:** [View Live Site](https://clean-and-connect.web.app/)
 * **Key Architecture:**
-    * **Automated Logic:** A smart status system that updates issue resolution automatically once budget goals are met through community contributions.
+    * **Automated Logic:** A smart status system that updates issue resolution automatically once budget goals are met.
     * **Reporting Engine:** Integrated **jsPDF** for generating and downloading professional contribution summaries.
     * **State Management:** Utilized **React Query** for optimized data fetching and server-side state synchronization.
-    * **Security:** Dual-layer security with Firebase Social Login and server-side JWT session management.
 
 ---
 
-## 📊 Professional Insights (Dynamic Stats)
+## 📊 Professional Insights
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Arafin&theme=tokyonight&hide_border=true" alt="S-Arafin's Streak" />
@@ -57,7 +55,6 @@ I am a dedicated **MERN Stack Developer** focused on building secure, scalable, 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Arafin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
 ---
 
 ## 🤝 Professional Connection
