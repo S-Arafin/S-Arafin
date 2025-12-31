@@ -1,12 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Sultanul%20Arafin&fontSize=90&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Engineering%20Disciplined%20Solutions&descAlignY=55&descAlign=62&descSize=25" alt="Sultanul Arafin Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=1a1b26&height=250&section=header&text=SULTANUL%20ARAFIN&fontSize=70&fontColor=7aa2f7&animation=fadeIn&fontAlignY=40&desc=SOFTWARE%20ENGINEER%20%7C%20MERN%20STACK%20SPECIALIST&descAlignY=60&descAlign=50&descSize=20&descColor=bb9af7" width="100%" />
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7DCFFF&center=true&vCenter=true&width=700&lines=%5B+%24+Initializing+MERN+Stack+Environment...%5D;%5B+%24+Stack%3A+MongoDB%2C+Express%2C+React%2C+Node.js+%5D;%5B+%24+Security%3A+Firebase+Auth+%2B+JWT+Implementation+%5D;%5B+%24+Mindset%3A+Discipline+Over+Motivation+%5D" alt="Typing SVG" />
 </div>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=React+%7C+Node.js+%7C+Express+%7C+MongoDB;Firebase+%7C+JWT+%7C+Stripe+%7C+Tailwind;Building+Secure+and+Scalable+Systems" alt="Typing SVG" />
-  </a>
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20COLLABORATION-7aa2f7?style=for-the-badge&labelColor=1a1b26" />
+  <img src="https://img.shields.io/badge/LOCATION-DHAKA%2C%20BD-bb9af7?style=for-the-badge&labelColor=1a1b26" />
+</p>
 
 ---
 
