@@ -51,11 +51,11 @@ I am a dedicated **MERN Stack Developer** focused on building secure, scalable, 
 ## 📊 Professional Insights (Dynamic Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SultanulArafin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sultanul's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=S-Arafin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sultanul's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SultanulArafin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Arafin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -63,9 +63,9 @@ I am a dedicated **MERN Stack Developer** focused on building secure, scalable, 
 ## 🤝 Professional Connection
 I am currently open to professional opportunities where I can apply my discipline and full-stack expertise to high-impact projects.
 
-* **LinkedIn:** [Your Profile Link Here]
-* **Email:** [Your Email Address Here]
-* **Portfolio:** [Link to your primary live project]
+* **LinkedIn:** www.linkedin.com/in/sultanul-arafin
+* **Email:** arafin23103@gmail.com
+
 
 ---
 <p align="center">
