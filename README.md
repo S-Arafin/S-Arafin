@@ -1,3 +1,21 @@
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=300&section=header&text=Sultanul%20Arafin&fontSize=90&fontColor=38bdf8&animation=fadeIn&fontAlignY=38&desc=MERN%20Stack%20Developer%20%7C%20Engineering%20Disciplined%20Solutions&descAlignY=55&descAlign=62&descSize=25" alt="Sultanul Arafin Header" width="100%" />
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=React+%7C+Node.js+%7C+Express+%7C+MongoDB;Firebase+%7C+JWT+%7C+Stripe+%7C+Tailwind;Building+Secure+and+Scalable+Systems" alt="Typing SVG" />
+  </a>
+</div>
+
+---
+
+<h3 align="center">
+  > "I do not rely on motivation; I rely on discipline. Discipline creates momentum, and momentum fuels progress."
+</h3>
+
+---
+
 # Sultanul Arafin | Software Engineer (MERN)
 ### Computer Science & Engineering Student at United International University
 
