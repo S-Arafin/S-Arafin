@@ -51,7 +51,7 @@ I am a dedicated **MERN Stack Developer** focused on building secure, scalable, 
 ## 📊 Professional Insights (Dynamic Stats)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=S-Arafin&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sultanul's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=S-Arafin&theme=tokyonight&hide_border=true" alt="S-Arafin's Streak" />
 </p>
 
 <p align="center">
