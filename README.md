@@ -98,15 +98,15 @@ I am a dedicated **MERN Stack Developer** focused on building secure, scalable, 
 
 ## 📊 Professional Insights
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=S-Arafin&theme=tokyonight&hide_border=true" alt="S-Arafin's Streak" />
-</p>
-
+## 📊 Professional Insights
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=S-Arafin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=S-Arafin&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Arafin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
 
 ---
 
