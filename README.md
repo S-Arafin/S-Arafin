@@ -99,14 +99,12 @@ I am a dedicated **MERN Stack Developer** focused on building secure, scalable, 
 
 ## 📊 Professional Insights
 
-## 🏆 Achievements
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=S-Arafin&theme=tokyonight&no-frame=true&margin-w=15" alt="S-Arafin Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=S-Arafin&theme=tokyo-night&hide_border=true&area=true" alt="S-Arafin's Activity Graph" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=S-Arafin&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,tailwind,git,vscode,figma&theme=dark" alt="Tech Stack Icons" />
 </p>
 ---
 
