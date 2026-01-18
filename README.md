@@ -3,11 +3,11 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=1a1b26&height=220&section=header&text=SULTANUL%20ARAFIN&fontSize=85&fontColor=7aa2f7&animation=fadeIn&fontAlignY=45" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=bb9af7&center=true&vCenter=true&width=800&lines=%E2%9C%A6+Software+Engineer;%E2%9C%A6+MERN+Stack+Specialist;%E2%9C%A6+Disciplined+Problem+Solver" alt="Role" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=bb9af7&center=true&vCenter=true&width=800&lines=%E2%9C%A6+Software+Engineer;%E2%9C%A6+MERN+%26+Next.js+Specialist;%E2%9C%A6+Disciplined+Problem+Solver" alt="Role" />
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=7dcfff&center=true&vCenter=true&width=600&lines=%3E+root%40arafin%3A~%24+exec+mern-stack-deployment;%3E+Status%3A+Building+Secure+Systems;%3E+Mindset%3A+Discipline+%3E+Motivation" alt="System Terminal" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=1500&color=7dcfff&center=true&vCenter=true&width=600&lines=%3E+root%40arafin%3A~%24+exec+next-js-deployment;%3E+Status%3A+Building+Scalable+Systems;%3E+Mindset%3A+Discipline+%3E+Motivation" alt="System Terminal" />
 </p>
 
 </div>
@@ -25,7 +25,7 @@
 
 ---
 
-# Sultanul Arafin | Software Engineer (MERN)
+# Sultanul Arafin | Software Engineer (MERN + Next.js)
 ### Computer Science & Engineering Student at United International University
 
 > **"I do not rely on motivation; I rely on discipline. Discipline creates consistent momentum, and momentum fuels progress."**
@@ -33,9 +33,9 @@
 ---
 
 ## 👨‍💻 Professional Profile
-I am a dedicated **MERN Stack Developer** focused on building secure, scalable, and impact-driven web applications. My development philosophy is rooted in **systematic discipline**, moving beyond basic tutorials to engineer production-ready solutions. 
+I am a dedicated **Full Stack Developer** focused on building secure, scalable, and impact-driven web applications. My development philosophy is rooted in **systematic discipline**, moving beyond basic tutorials to engineer production-ready solutions using the **MERN Stack** and **Next.js**.
 
-* 🛡️ **Technical Focus:** Secure Authentication (Firebase + JWT), RBAC (Role-Based Access Control), and Scalable Database Architecture.
+* 🛡️ **Technical Focus:** Server-Side Rendering (SSR), Secure Authentication (Firebase + JWT), and Scalable Database Architecture.
 * ⚙️ **Process:** Agile mindset, clean code principles, and rigorous debugging.
 * 🎓 **Education:** Currently pursuing a BSc in Computer Science and Engineering at UIU.
 
@@ -45,40 +45,48 @@ I am a dedicated **MERN Stack Developer** focused on building secure, scalable, 
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend** | React.js, Tailwind CSS, DaisyUI, TanStack Query, Axios, Recharts, Framer Motion |
-| **Backend** | Node.js, Express.js, RESTful APIs, JWT (JSON Web Tokens) |
+| **Frontend & Frameworks** | **Next.js (App Router)**, React.js, Tailwind CSS, DaisyUI, TanStack Query, Framer Motion |
+| **Backend** | Node.js, Express.js, **Next.js API Routes**, RESTful APIs, JWT (JSON Web Tokens) |
 | **Database** | MongoDB (NoSQL), Mongoose Schema Design |
 | **Services** | Firebase Authentication, Stripe (Payment Gateway), Firebase Admin SDK |
-| **Utilities** | jsPDF (Report Generation), Environment Variables (.env), Git/GitHub |
+| **Utilities** | jsPDF, Environment Variables (.env), Git/GitHub |
 
 ---
 
 ## 🏙️ Featured Industry-Grade Projects
 
-### 1. CityResolved - Public Infrastructure Issue Reporting System
+### 1. TechGear - High-Performance E-Commerce
+*A modern, full-stack e-commerce platform built for tech enthusiasts.*
+* **Tech Stack:** Next.js 16, MongoDB, Framer Motion, Tailwind CSS.
+* **Key Architecture:**
+    * **Server-Side Efficiency:** Implemented server-side pagination and dynamic filtering using MongoDB aggregation.
+    * **Smart Cart System:** Persistent local storage cart with slide-out sidebar and instant state updates.
+    * **Interactive UI:** Smooth transitions with Framer Motion and instant feedback via React Hot Toast.
+
+### 2. CityResolved - Public Infrastructure Issue Reporting System
 *A full-stack municipal management platform bridging citizens and authorities.*
 * **Live Link:** [View Live Site](https://city-resolved.web.app/)
 * **Key Architecture:**
     * **Role-Based Access Control (RBAC):** Three distinct dashboards secured via JWT verification middleware.
-    * **Priority Engine:** Integrated **Stripe Payment Gateway** for "Boost" functionality and premium subscriptions.
+    * **Priority Engine:** Integrated **Stripe Payment Gateway** for "Boost" functionality.
     * **Data Visualization:** Admin and Staff dashboards utilizing **Recharts** for real-time analytics.
 
-### 2. CleanConnect - Community Issue Tracker
+### 3. CleanConnect - Community Issue Tracker
 *A community-driven platform for environmental reporting and crowdfunding.*
 * **Live Link:** [View Live Site](https://clean-and-connect.web.app/)
 * **Key Architecture:**
     * **Automated Logic:** Smart status updates triggered when contribution goals match the budget.
     * **Reporting Engine:** Integrated **jsPDF** for professional contribution summaries.
-    * **State Management:** **React Query** for optimized server-side state synchronization.
 
 ---
 
 ## 🛠️ Technical Stack & Frameworks
-*The core technologies I use to build disciplined, industry-grade MERN applications.*
+*The core technologies I use to build disciplined, industry-grade applications.*
 
-### Frontend Development
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### Frontend & Full Stack
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5AD7E4?style=for-the-badge&logo=daisyui&logoColor=white)
 
@@ -104,7 +112,7 @@ I am a dedicated **MERN Stack Developer** focused on building secure, scalable, 
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,firebase,tailwind,git,vscode,figma&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,js,nodejs,express,mongodb,firebase,tailwind,git,vscode,figma&theme=dark" alt="Tech Stack Icons" />
 </p>
 ---
 
