@@ -45,7 +45,7 @@ I am a dedicated **Full Stack Developer** focused on building secure, scalable, 
 
 | Category | Technologies |
 | :--- | :--- |
-| **Frontend & Frameworks** | **Next.js (App Router)**, React.js, Tailwind CSS, DaisyUI, TanStack Query, Framer Motion |
+| **Frontend & Frameworks** | **Next.js (App Router)**, React.js, TypeScript, Tailwind CSS, DaisyUI, TanStack Query, Framer Motion |
 | **Backend** | Node.js, Express.js, **Next.js API Routes**, RESTful APIs, JWT (JSON Web Tokens) |
 | **Database** | MongoDB (NoSQL), Mongoose Schema Design |
 | **Services** | Firebase Authentication, Stripe (Payment Gateway), Firebase Admin SDK |
@@ -86,6 +86,7 @@ I am a dedicated **Full Stack Developer** focused on building secure, scalable, 
 ### Frontend & Full Stack
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![DaisyUI](https://img.shields.io/badge/daisyui-5AD7E4?style=for-the-badge&logo=daisyui&logoColor=white)
@@ -112,8 +113,9 @@ I am a dedicated **Full Stack Developer** focused on building secure, scalable, 
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,nodejs,express,mongodb,firebase,tailwind,git,vscode,figma&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,nodejs,express,mongodb,firebase,tailwind,git,vscode,figma&theme=dark" alt="Tech Stack Icons" />
 </p>
+
 ---
 
 ## 🤝 Professional Connection
